@@ -21,7 +21,7 @@ Your Task:
 You don't need to read input or print anything. Your task is to complete the function Series() which takes an Integer n as input and returns a Fibonacci series up to the nth term.
 
 Expected Time Complexity: O(n)
-Expected Space Complexity: O(n)
+Expected Space Complexity: O(nlogn)
   
   class Solution {
 
